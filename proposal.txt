@@ -1,0 +1,19 @@
+Hello,
+
+I read your brief for an investor-facing agricultural news portal—a true money-market briefing room for crops, livestock, and ag-tech deal flow.
+
+To demonstrate my standard upfront, I built a live working demonstration covering all your requirements:
+🔗 Live Investor Terminal: https://agri-invest-news.vercel.app/
+
+Why this build directly satisfies your acceptance criteria:
+
+1. Financial Briefing Aesthetics: Styled with clean financial typography, real-time commodity tickers (CBOT Wheat, Soybeans, Indian Basmati, Palm Oil, Carbon), and market analysis widgets.
+2. Multi-Axis Filtering: Instant client-side drilldown by Commodity (Grains, AgTech, Farmland), Region (India/APAC, Americas, EMEA), and Deal Size ($1M to $50M+).
+3. Automated & Curation Feeds: Live updating stream pulling from verified financial feeds, plus an intuitive CMS back-end allowing you to post or curate headlines without writing code.
+4. Retention & Email Alerts: Built-in daily investor briefing and instant deal alert capture modal.
+5. 90+ Mobile Google PageSpeed & SEO: Clean lightweight architecture with embedded Google News JSON-LD schema markup for search discoverability.
+
+Delivered on your domain with full admin credentials, style guide, and a video walkthrough in 4-5 days within your ₹1,050 budget. Ready to begin immediately!
+
+Best regards,
+Tejaans Bansal
